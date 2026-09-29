@@ -1,0 +1,157 @@
+source,raw_name,team,differs_from_canonical
+2425.csv,Arsenal,Arsenal,False
+2526.csv,Arsenal,Arsenal,False
+epl-00-25,Arsenal,Arsenal,False
+epl-25-26,Arsenal,Arsenal,False
+epl-92-23,Arsenal,Arsenal,False
+2425.csv,Aston Villa,Aston Villa,False
+2526.csv,Aston Villa,Aston Villa,False
+epl-00-25,Aston Villa,Aston Villa,False
+epl-25-26,Aston Villa,Aston Villa,False
+epl-92-23,Aston Villa,Aston Villa,False
+epl-92-23,Barnsley,Barnsley,False
+epl-00-25,Birmingham,Birmingham City,True
+epl-92-23,Birmingham City,Birmingham City,False
+epl-00-25,Blackburn,Blackburn Rovers,True
+epl-92-23,Blackburn,Blackburn Rovers,True
+epl-00-25,Blackpool,Blackpool,False
+epl-92-23,Blackpool,Blackpool,False
+epl-00-25,Bolton,Bolton Wanderers,True
+epl-92-23,Bolton,Bolton Wanderers,True
+2425.csv,Bournemouth,Bournemouth,False
+2526.csv,Bournemouth,Bournemouth,False
+epl-00-25,Bournemouth,Bournemouth,False
+epl-25-26,Bournemouth,Bournemouth,False
+epl-92-23,Bournemouth,Bournemouth,False
+epl-00-25,Bradford,Bradford City,True
+epl-92-23,Bradford City,Bradford City,False
+2425.csv,Brentford,Brentford,False
+2526.csv,Brentford,Brentford,False
+epl-00-25,Brentford,Brentford,False
+epl-25-26,Brentford,Brentford,False
+epl-92-23,Brentford,Brentford,False
+2425.csv,Brighton,Brighton & Hove Albion,True
+2526.csv,Brighton,Brighton & Hove Albion,True
+epl-00-25,Brighton,Brighton & Hove Albion,True
+epl-25-26,Brighton,Brighton & Hove Albion,True
+epl-92-23,Brighton,Brighton & Hove Albion,True
+2526.csv,Burnley,Burnley,False
+epl-00-25,Burnley,Burnley,False
+epl-25-26,Burnley,Burnley,False
+epl-92-23,Burnley,Burnley,False
+epl-00-25,Cardiff,Cardiff City,True
+epl-92-23,Cardiff City,Cardiff City,False
+epl-00-25,Charlton,Charlton Athletic,True
+epl-92-23,Charlton Ath,Charlton Athletic,True
+2425.csv,Chelsea,Chelsea,False
+2526.csv,Chelsea,Chelsea,False
+epl-00-25,Chelsea,Chelsea,False
+epl-25-26,Chelsea,Chelsea,False
+epl-92-23,Chelsea,Chelsea,False
+epl-00-25,Coventry,Coventry City,True
+epl-92-23,Coventry City,Coventry City,False
+2425.csv,Crystal Palace,Crystal Palace,False
+2526.csv,Crystal Palace,Crystal Palace,False
+epl-00-25,Crystal Palace,Crystal Palace,False
+epl-25-26,Crystal Palace,Crystal Palace,False
+epl-92-23,Crystal Palace,Crystal Palace,False
+epl-00-25,Derby,Derby County,True
+epl-92-23,Derby County,Derby County,False
+2425.csv,Everton,Everton,False
+2526.csv,Everton,Everton,False
+epl-00-25,Everton,Everton,False
+epl-25-26,Everton,Everton,False
+epl-92-23,Everton,Everton,False
+2425.csv,Fulham,Fulham,False
+2526.csv,Fulham,Fulham,False
+epl-00-25,Fulham,Fulham,False
+epl-25-26,Fulham,Fulham,False
+epl-92-23,Fulham,Fulham,False
+epl-00-25,Huddersfield,Huddersfield Town,True
+epl-92-23,Huddersfield,Huddersfield Town,True
+epl-00-25,Hull,Hull City,True
+epl-92-23,Hull City,Hull City,False
+2425.csv,Ipswich,Ipswich Town,True
+epl-00-25,Ipswich,Ipswich Town,True
+epl-92-23,Ipswich Town,Ipswich Town,False
+2526.csv,Leeds,Leeds United,True
+epl-00-25,Leeds,Leeds United,True
+epl-25-26,Leeds United,Leeds United,False
+epl-92-23,Leeds United,Leeds United,False
+2425.csv,Leicester,Leicester City,True
+epl-00-25,Leicester,Leicester City,True
+epl-92-23,Leicester City,Leicester City,False
+2425.csv,Liverpool,Liverpool,False
+2526.csv,Liverpool,Liverpool,False
+epl-00-25,Liverpool,Liverpool,False
+epl-25-26,Liverpool,Liverpool,False
+epl-92-23,Liverpool,Liverpool,False
+epl-00-25,Luton,Luton Town,True
+2425.csv,Man City,Manchester City,True
+2526.csv,Man City,Manchester City,True
+epl-00-25,Man City,Manchester City,True
+epl-25-26,Manchester City,Manchester City,False
+epl-92-23,Manchester City,Manchester City,False
+2425.csv,Man United,Manchester United,True
+2526.csv,Man United,Manchester United,True
+epl-00-25,Man United,Manchester United,True
+epl-25-26,Manchester Utd,Manchester United,True
+epl-92-23,Manchester Utd,Manchester United,True
+epl-00-25,Middlesbrough,Middlesbrough,False
+epl-92-23,Middlesbrough,Middlesbrough,False
+2425.csv,Newcastle,Newcastle United,True
+2526.csv,Newcastle,Newcastle United,True
+epl-00-25,Newcastle,Newcastle United,True
+epl-25-26,Newcastle Utd,Newcastle United,True
+epl-92-23,Newcastle Utd,Newcastle United,True
+epl-00-25,Norwich,Norwich City,True
+epl-92-23,Norwich City,Norwich City,False
+2425.csv,Nott'm Forest,Nottingham Forest,True
+2526.csv,Nott'm Forest,Nottingham Forest,True
+epl-00-25,Nott'm Forest,Nottingham Forest,True
+epl-25-26,Nott'ham Forest,Nottingham Forest,True
+epl-92-23,Nott'ham Forest,Nottingham Forest,True
+epl-92-23,Oldham Athletic,Oldham Athletic,False
+epl-00-25,Portsmouth,Portsmouth,False
+epl-92-23,Portsmouth,Portsmouth,False
+epl-00-25,QPR,Queens Park Rangers,True
+epl-92-23,QPR,Queens Park Rangers,True
+epl-00-25,Reading,Reading,False
+epl-92-23,Reading,Reading,False
+epl-00-25,Sheffield United,Sheffield United,False
+epl-92-23,Sheffield Utd,Sheffield United,True
+epl-92-23,Sheffield Weds,Sheffield Wednesday,True
+2425.csv,Southampton,Southampton,False
+epl-00-25,Southampton,Southampton,False
+epl-92-23,Southampton,Southampton,False
+epl-00-25,Stoke,Stoke City,True
+epl-92-23,Stoke City,Stoke City,False
+2526.csv,Sunderland,Sunderland,False
+epl-00-25,Sunderland,Sunderland,False
+epl-25-26,Sunderland,Sunderland,False
+epl-92-23,Sunderland,Sunderland,False
+epl-00-25,Swansea,Swansea City,True
+epl-92-23,Swansea City,Swansea City,False
+epl-92-23,Swindon Town,Swindon Town,False
+2425.csv,Tottenham,Tottenham Hotspur,True
+2526.csv,Tottenham,Tottenham Hotspur,True
+epl-00-25,Tottenham,Tottenham Hotspur,True
+epl-25-26,Tottenham,Tottenham Hotspur,True
+epl-92-23,Tottenham,Tottenham Hotspur,True
+epl-00-25,Watford,Watford,False
+epl-92-23,Watford,Watford,False
+epl-00-25,West Brom,West Bromwich Albion,True
+epl-92-23,West Brom,West Bromwich Albion,True
+2425.csv,West Ham,West Ham United,True
+2526.csv,West Ham,West Ham United,True
+epl-00-25,West Ham,West Ham United,True
+epl-25-26,West Ham,West Ham United,True
+epl-92-23,West Ham,West Ham United,True
+epl-00-25,Wigan,Wigan Athletic,True
+epl-92-23,Wigan Athletic,Wigan Athletic,False
+epl-92-23,Wimbledon,Wimbledon,False
+2425.csv,Wolves,Wolverhampton Wanderers,True
+2526.csv,Wolves,Wolverhampton Wanderers,True
+epl-00-25,Wolves,Wolverhampton Wanderers,True
+epl-25-26,Wolves,Wolverhampton Wanderers,True
+epl-92-23,Wolves,Wolverhampton Wanderers,True

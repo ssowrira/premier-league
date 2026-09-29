@@ -1,0 +1,52 @@
+team,short_name,team_code,first_season,last_season,seasons_in_data
+Arsenal,Arsenal,ARS,1992-93,2025-26,34
+Aston Villa,Aston Villa,AVL,1992-93,2025-26,31
+Barnsley,Barnsley,BAR,1997-98,1997-98,1
+Birmingham City,Birmingham,BIR,2002-03,2010-11,7
+Blackburn Rovers,Blackburn,BLB,1992-93,2011-12,18
+Blackpool,Blackpool,BLP,2010-11,2010-11,1
+Bolton Wanderers,Bolton,BOL,1995-96,2011-12,13
+Bournemouth,Bournemouth,BOU,2015-16,2025-26,9
+Bradford City,Bradford,BRA,1999-00,2000-01,2
+Brentford,Brentford,BRE,2021-22,2025-26,5
+Brighton & Hove Albion,Brighton,BHA,2017-18,2025-26,9
+Burnley,Burnley,BUR,2009-10,2025-26,10
+Cardiff City,Cardiff,CAR,2013-14,2018-19,2
+Charlton Athletic,Charlton,CHA,1998-99,2006-07,8
+Chelsea,Chelsea,CHE,1992-93,2025-26,34
+Coventry City,Coventry,COV,1992-93,2000-01,9
+Crystal Palace,Crystal Palace,CRY,1992-93,2025-26,17
+Derby County,Derby,DER,1996-97,2007-08,7
+Everton,Everton,EVE,1992-93,2025-26,34
+Fulham,Fulham,FUL,2001-02,2025-26,19
+Huddersfield Town,Huddersfield,HUD,2017-18,2018-19,2
+Hull City,Hull,HUL,2008-09,2016-17,5
+Ipswich Town,Ipswich,IPS,1992-93,2024-25,6
+Leeds United,Leeds,LEE,1992-93,2025-26,16
+Leicester City,Leicester,LEI,1994-95,2024-25,18
+Liverpool,Liverpool,LIV,1992-93,2025-26,34
+Luton Town,Luton,LUT,2023-24,2023-24,1
+Manchester City,Man City,MCI,1992-93,2025-26,29
+Manchester United,Man Utd,MUN,1992-93,2025-26,34
+Middlesbrough,Middlesbrough,MID,1992-93,2016-17,15
+Newcastle United,Newcastle,NEW,1993-94,2025-26,31
+Norwich City,Norwich,NOR,1992-93,2021-22,10
+Nottingham Forest,Nott'm Forest,NFO,1992-93,2025-26,9
+Oldham Athletic,Oldham,OLD,1992-93,1993-94,2
+Portsmouth,Portsmouth,POR,2003-04,2009-10,7
+Queens Park Rangers,QPR,QPR,1992-93,2014-15,7
+Reading,Reading,REA,2006-07,2012-13,3
+Sheffield United,Sheffield Utd,SHU,1992-93,2023-24,6
+Sheffield Wednesday,Sheffield Wed,SHW,1992-93,1999-00,8
+Southampton,Southampton,SOU,1992-93,2024-25,25
+Stoke City,Stoke,STK,2008-09,2017-18,10
+Sunderland,Sunderland,SUN,1996-97,2025-26,17
+Swansea City,Swansea,SWA,2011-12,2017-18,7
+Swindon Town,Swindon,SWI,1993-94,1993-94,1
+Tottenham Hotspur,Tottenham,TOT,1992-93,2025-26,34
+Watford,Watford,WAT,1999-00,2021-22,8
+West Bromwich Albion,West Brom,WBA,2002-03,2020-21,13
+West Ham United,West Ham,WHU,1993-94,2025-26,30
+Wigan Athletic,Wigan,WIG,2005-06,2012-13,8
+Wimbledon,Wimbledon,WIM,1992-93,1999-00,8
+Wolverhampton Wanderers,Wolves,WOL,2003-04,2025-26,12
